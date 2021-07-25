@@ -7,6 +7,9 @@ Two classes are implemented here for data binning: `BinsEncoder` and `BinsDiscre
 * `BinsDiscretizer` is used to split all values of real feature vector into some bins.
 * `BinsEncoder` is used to encode each bin with some value.
 
+## Example
+Example of `BinsEncoder` usage can be found [here](https://github.com/sasasagagaga/BinsEncoder/blob/main/Example.ipynb).
+
 ## TODO list
 - [ ] Check and add asserts
 - [ ] Make `encode_bins` parameter more flexible may be?
